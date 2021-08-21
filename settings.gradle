@@ -1,0 +1,2 @@
+rootProject.name = "MAD Lab IMGview"
+include ':app'
